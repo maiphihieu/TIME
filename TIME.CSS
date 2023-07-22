@@ -1,0 +1,32 @@
+body{
+    background: radial-gradient( ellipse at center,
+    #0a2e38 0%,
+    #000 40%);
+}
+
+#clock{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #daf6ff;
+    text-shadow: 0 0 20px rgba(10,175,230,1),
+    0 0 20px rgba(10,175,230,1);
+    padding-top: 90px;
+    padding-bottom: 140px;
+}
+
+.date{
+    letter-spacing: 0.3em;
+    font-size: 24px; 
+    
+}
+ .time{
+    letter-spacing: 0.05em;
+    font-size: 80px;
+    padding: 5px 0;
+ }
+
+ .text{
+    letter-spacing: 0.1em;
+    font-size: 12px;
+    padding: 20px 0 0;
+ }
